@@ -1,0 +1,185 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Suffixes",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which suffix would you add to \"read\" to mean \"can be read\"?",
+          "options": ["-less", "-able", "-ible", "-ful"],
+          "answer": 1,
+          "explanation": "\"Readable\" means \"can be read\", using the suffix \"-able\"."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank: If something has no use, it is ________. ",
+          "options": ["Useless", "Useful"],
+          "answer": 0,
+          "explanation": "\"Useless\" uses the suffix \"-less\" to mean \"without use\"."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word means \"without colour\"?",
+          "options": ["Colourable", "Colourless", "Colourible", "Colouring"],
+          "answer": 1,
+          "explanation": "\"Colourless\" uses the suffix \"-less\" to mean \"without colour\"."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank: If something has no bottom, it is ________. ",
+          "options": ["Bottomless", "Bottomlessful"],
+          "answer": 0,
+          "explanation": "\"Bottomless\" uses the suffix \"-less\" to mean \"without a bottom\"."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which suffix would you add to \"convert\" to mean \"can be converted\"?",
+          "options": ["-less", "-able", "-ible", "-ful"],
+          "answer": 2,
+          "explanation": "\"Convertible\" uses the suffix \"-ible\" to mean \"can be converted\"."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank: If something can be stretched, it is ________. ",
+          "options": ["Stretchible", "Stretchable"],
+          "answer": 1,
+          "explanation": "\"Stretchable\" uses the suffix \"-able\" to mean \"can be stretched\"."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word means \"without limits\"?",
+          "options": ["Limitable", "Limitless", "Limitible", "Limited"],
+          "answer": 1,
+          "explanation": "\"Limitless\" uses the suffix \"-less\" to mean \"without limits\"."
+        },
+        {
+          "questionNo": 8,
+          "question": "Fill in the blank: If something can be seen, it is ________. ",
+          "options": ["Visible", "Visable"],
+          "answer": 0,
+          "explanation": "\"Visible\" uses the suffix \"-ible\" to mean \"can be seen\"."
+        },
+        {
+          "questionNo": 9,
+          "question": "The word \"reversible\" uses the suffix \"-able\". ",
+          "options": ["True", "False"],
+          "answer": 1,
+          "explanation": "\"Reversible\" uses the suffix \"-ible\", not \"-able\"."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which word means \"without thought\"?",
+          "options": ["Thoughtable", "Thoughtless", "Thoughtible", "Thoughtful"],
+          "answer": 1,
+          "explanation": "\"Thoughtless\" uses the suffix \"-less\" to mean \"without thought\"."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word is formed correctly?",
+          "options": ["Breakable", "Breakible"],
+          "answer": 0,
+          "explanation": "\"Breakable\" is the correct form, using the suffix \"-able\"."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank: If you can break something, it is ________.",
+          "options": ["Breakable", "Breakible"],
+          "answer": 0,
+          "explanation": "\"Breakable\" uses the suffix \"-able\" to mean \"capable of being broken\"."
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blank: Someone without a job is ________.",
+          "options": ["Jobless", "Joblessed"],
+          "answer": 0,
+          "explanation": "\"Jobless\" uses the suffix \"-less\" to mean \"without a job\"."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which suffix would you add to \"access\" to mean \"can be accessed\"?",
+          "options": ["-less", "-able", "-ible", "-ful"],
+          "answer": 2,
+          "explanation": "\"Accessible\" uses the suffix \"-ible\" to mean \"can be accessed\"."
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank: If something can be believed, it is ________.",
+          "options": ["Believable", "Believible"],
+          "answer": 0,
+          "explanation": "\"Believable\" uses the suffix \"-able\" to mean \"can be believed\"."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word means \"without sound\"?",
+          "options": ["Soundable", "Soundless", "Soundible", "Sounding"],
+          "answer": 1,
+          "explanation": "\"Soundless\" uses the suffix \"-less\" to mean \"without sound\"."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word is formed correctly?",
+          "options": ["Countable", "Countible", "Countless", "Both a and c"],
+          "answer": 3,
+          "explanation": "\"Countable\" is correct when meaning \"able to be counted\". \"Countless\" is correct and means \"too many to count\"."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word is formed correctly?",
+          "options": ["Resistable", "Resistible"],
+          "answer": 1,
+          "explanation": "\"Resistible\" is the correct form, using the suffix \"-ible\"."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which word means \"able to be carried\"?",
+          "options": ["Carryless", "Carryible", "Carryable", "Portable"],
+          "answer": 3,
+          "explanation": "\"Portable\" uses the suffix \"-able\" to mean \"capable of being carried\"."
+        },
+        {
+          "questionNo": 20,
+          "question": "Fill in the blank: If something can be eaten, it is ________. ",
+          "options": ["Edable", "Edible"],
+          "answer": 1,
+          "explanation": "\"Edible\" uses the suffix \"-ible\" to mean \"can be eaten\"."
+        },
+        {
+          "questionNo": 21,
+          "question": "Which word is formed correctly?",
+          "options": ["Forgetable", "Forgettable", "Forgetible"],
+          "answer": 1,
+          "explanation": "\"Forgettable\" is the correct spelling, using \"-able\" and doubling the 't'."
+        },
+        {
+          "questionNo": 22,
+          "question": "The word \"endless\" means the same as \"unending\". ",
+          "options": ["True", "False"],
+          "answer": 0,
+          "explanation": "\"Endless\" uses the suffix \"-less\" to mean \"without end\", which is synonymous with \"unending\"."
+        },
+        {
+          "questionNo": 23,
+          "question": "Fill in the blank: Someone without a home is ________.",
+          "options": ["Homemore","Homeable","Homeless"],
+          "answer": 2,
+          "explanation": "\"Homeless\" uses the suffix \"-less\" to mean \"without a home\"."
+        },
+        {
+          "questionNo": 24,
+          "question": "Fill in the blank: If something can be understood, it is ________.",
+          "options": ["Understandible","Understandable","Understandeble"],
+          "answer": 1,
+          "explanation": "\"Understandable\" uses the suffix \"-able\" to mean \"can be understood\"."
+        },
+        {
+          "questionNo": 25,
+          "question": "Fill in the blank: If something can be repeated, it is ________.",
+          "options": ["Repeatable","Repeatible","Reapeatless"],
+          "answer": 0,
+          "explanation": "\"Repeatable\" uses the suffix \"-able\" to mean \"can be repeated\"."
+        }
+      ]
+    }
+  ]
+}
